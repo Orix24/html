@@ -24,3 +24,18 @@ img {
   border-radius: 8px;
 }
 
+
+.button {
+  border-radius: 8px;
+  background-color: #778899;
+  border: none;
+  color: AliceBlue;
+  text-align: center;
+  font-size: 24px;
+  padding: 5px;
+  width: 200px;
+  transition: all 1.5s;
+  cursor: pointer;
+  margin: 5px;
+  
+  
