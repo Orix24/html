@@ -5,19 +5,26 @@
 }
 
 p1 {
-	font-size: 24px
+	font-size: 24px;
+	font-family: David;
 }
 
 p2 {
-	font-size: 24px
+	font-size: 24px;
+	font-family: David;
 }
 
 p3 { 
-	font-size: 40px
+	font-size: 40px;
+	font-family: David;
 }
 
 h1 {
-	font-size: 60px
+	font-size: 60px;
+}
+
+h2 {
+	font-size: 60px;
 }
 
 img {
@@ -37,3 +44,10 @@ img {
   transition: all 1.5s;
   cursor: pointer;
   margin: 5px;
+}
+
+body {
+	font-size: 100.01%;
+	text-align: center;
+	
+}
